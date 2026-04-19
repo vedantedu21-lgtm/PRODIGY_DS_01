@@ -13,7 +13,5 @@ World Bank Total Population Dataset (SP.POP.TOTL)
 
 ## Output
 ### Bar Chart - Top 10 Most Populous Countries
-![Bar Chart](bar_chart_top10.png)
 
 ### Histogram - Distribution of Country Populations
-![Histogram](histogram_population.png)
